@@ -1,0 +1,1 @@
+DATA_PATH = 'data/UHR_chr22_classification.txt'
