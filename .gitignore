@@ -21,3 +21,7 @@ __pycache__/
 EOF
 
 SQANTI3/
+
+.claude
+CLAUDE.md
+.mypy_cache

@@ -1,0 +1,11 @@
+{
+  "config": {
+    "n_estimators": 1483,
+    "max_depth": 39,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_features": 0.9580726974001363,
+    "max_samples": 0.9740185928871172
+  },
+  "oob_score": 0.9445843828715366
+}

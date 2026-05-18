@@ -12,6 +12,7 @@ DROP_COLS = [
     'within_polyA_site', 'dist_to_polyA_site',
     'ORF_seq', 'seq_A_downstream_TTS',
     'chrom',
+    'associated_gene', 'associated_transcript',
 ]
 
 df = df.drop(columns=DROP_COLS)
